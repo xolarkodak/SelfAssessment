@@ -1,66 +1,66 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
+  - Procedural programming: 🎓 known
   - Imperative programming
-  - Structured programming
+  - Structured programming: 🎓 known
   - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
+  - Functional programming: 🎓 known
+  - Prototype-based programming: 👂 heard
+  - Object-oriented programming: 🎓 known
+  - Object-based programming: 🎓 known
   - Generic programming
   - Concurrent computing
-  - Asyncronous programming
-  - Parallel programming
+  - Asyncronous programming: 🎓 known
+  - Parallel programming: 👂 heard
   - Reactive programming
   - FRP (Functional-reactive)
   - Automata-based programming
   - Domain-specific languages
   - Multi-paradigm programming
-  - Metaprogramming
+  - Metaprogramming: 👂 heard
   - Actor model
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
+  - constructor: 🎓 known
+  - new: 🎓 known
+  - Static method: 🎓 known
+  - Method: 🎓 known
+  - Async method: 👂 heard
+  - Getters, Setters: 🎓 known
+  - Public fields: 🎓 known
+  - Private fields: 🎓 known
+  - Field declarations: 🎓 known
+  - Inheritance: 🎓 known
+  - Parent class: 🎓 known
+  - Polymorphism: 🎓 known
+  - Abstract class: 🎓 known
+  - Interface: 👂 heard
   - Encapsulation
   - Hidden class
-  - Object form
-  - instance
+  - Object form: 🎓 known
+  - instance: 🎓 known
   - Introspection
-  - Reflection
+  - Reflection: 🎓 known
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
-  - Adapter
+  - Singleton: 👂 heard
+  - Factory Method: 👂 heard
+  - Abstract Factory: 👂 heard
+  - Adapter: 👂 heard
   - Observer
   - Strategy
   - Facade
-  - Proxy
+  - Proxy: 👂 heard
   - Chain of Responsibility
-  - Command
-  - Iterator
+  - Command: 👂 heard
+  - Iterator: 👂 heard
   - State
   - Bridge
   - Builder
-  - Prototype
+  - Prototype: 👂 heard
   - Composite
   - Decorator
   - Flyweight
   - Mediator
-  - Memento
-  - Template Method
+  - Memento: 👂 heard
+  - Template Method: 👂 heard
   - Visitor
